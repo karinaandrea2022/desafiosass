@@ -3,6 +3,32 @@ header h1 {
   background-color: aqua;
 }
 
+header {
+  width: 1440px;
+}
+
+.extend h2, .extend2 h2 {
+  color: orange;
+  background-color: gold;
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.extend h2 p, .extend2 h2 p {
+  color: blueviolet;
+  font-size: 18px;
+  background-color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.extend2 h2 {
+  background-color: red;
+}
+
+.extend2 {
+  width: 500px;
+  heigth: 500px;
+}
+
 footer {
   background-color: rgb(9, 20, 120);
 }

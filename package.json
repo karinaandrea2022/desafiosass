@@ -1,11 +1,19 @@
 {
   "name": "desafiosass",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinaandrea2022/desafiosass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karinaandrea2022/desafiosass/issues"
+  },
+  "homepage": "https://github.com/karinaandrea2022/desafiosass#readme",
+  "description": ""
 }
