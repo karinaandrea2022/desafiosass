@@ -1,0 +1,27 @@
+header h1 {
+  color: yellowgreen;
+  background-color: aqua;
+}
+
+footer {
+  background-color: rgb(9, 20, 120);
+}
+footer p {
+  color: white;
+}
+
+ul li {
+  list-style: none;
+  color: red;
+}
+
+section h2 {
+  color: white;
+  background-color: black;
+}
+section h2 p {
+  background-color: greenyellow;
+  color: azure;
+}
+
+/*# sourceMappingURL=estilo.css.map */
